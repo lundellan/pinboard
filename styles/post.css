@@ -1,0 +1,11 @@
+.commentBox {
+    border: solid;
+    width: 400px;
+    background-color: azure;
+}
+
+.linkBox {
+    text-decoration: none;
+    background-color: azure;
+    color: black;
+}
